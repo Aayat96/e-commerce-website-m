@@ -1,0 +1,39 @@
+
+/* Head */
+h1{
+    font-family:"Montserrat-bold";
+    color: #fff;
+    font-size: 5rem;
+}
+
+.intro{
+    font-size: 1rem;
+    color: #fff;
+}
+
+
+.background{
+    background-image: url(images/aeroplane\ .jpeg);
+    min-height: 400px;
+    background-size: cover;
+    text-align: start;
+}
+
+/* 
+feature */
+
+.hight{
+    height: 268px;
+}
+
+
+.footer{
+    
+    background-image: url(images/aeroplane\ .jpeg);
+    min-height: 400px;
+    background-size: cover;
+    background-position: center;
+    color:crimson;
+
+}
+
